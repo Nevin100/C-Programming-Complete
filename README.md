@@ -3,7 +3,7 @@
 Welcome to **C-Ranked** – my no-nonsense, all-killer-no-filler journey through the **entire C programming language**. 🧠💥  
 From **Hello, World!** to **pointers and memory management**, this repo is a chronologically curated vault of everything I learned in C — with notes, examples, mini-projects, and cringe-worthy beginner mistakes I now proudly own. 😎
 
-> 🗓️ Started ~1 year ago. Not abandoned — just completed. This was the course that made me *think like a programmer*.
+> 🗓️ Started ~1 year ago (approx). Not abandoned — just completed. This was the course that made me *think like a programmer*.
 
 ![image](https://github.com/user-attachments/assets/b28e06f9-10bd-4e6e-a03d-a5bbe7335e54)
 
